@@ -13,20 +13,20 @@
 
   - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas.
 
-Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
+Meu foco é integrar minhas experiências prévias com minhas novas habilidades para oferecer soluções inovadoras no campo digital.
+<p>Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
 
 </p>
 
-
+## Contato:
 <!-- Links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelensouzaguiar/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suexsurvive/)
 
 <!-- GithubEstatísticas -->
 ![Sue GitHub Estatística](https://github-readme-stats.vercel.app/api?username=suelen-souzaa&show_icons=true&theme=slateorange&include_all_commits=true&locale=pt-br)
 
-## Linguagens & Tecnologias:
+## Linguagens & Tecnologias que estou aprendendo:
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
   
@@ -45,8 +45,5 @@ Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jorna
 <!-- Portfólio -->
 ## Portfólio:
 - atualizações em breve...
-
-
-
-
   
+![cattech](https://github.com/user-attachments/assets/b0c22bac-7a48-46c9-afb5-9365e0adcdd8)
