@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
   Eu sou a Suélen, mas pode me chamar de Sue!</p> 
-  <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para essa área.
+  <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para a área da tecnologia.
 
   - 🌱 Atualmente, estudo de forma autodidata Go, JavaScript e Node.js.
 
