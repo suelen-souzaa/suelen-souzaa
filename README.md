@@ -11,7 +11,7 @@
 
   - 🌱 Atualmente, estudo de forma autodidata Go, JavaScript e Node.js.
 
-  - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Software.
+  - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas.
 
 Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
 
