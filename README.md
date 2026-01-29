@@ -9,7 +9,7 @@
   Eu sou a Suélen, mas pode me chamar de Sue!</p> 
   <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para a área da tecnologia.
 
-  - 🌱 Atualmente, estudo de forma autodidata Golang, JavaScript e Node.js.
+  - 🌱 Atualmente, estudo de forma autodidata HTML, CSS, JavaScript, SQL e Gen IA.
 
   - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas.
 
@@ -37,9 +37,10 @@ Meu foco é integrar minhas experiências prévias com minhas novas habilidades 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/user-attachments/assets/f96eb48f-bb5f-4e0c-93df-0a7f9f505098" height="40" alt="sql logo />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo />
+  <img width="12" />
 </div>
 
 <!-- Portfólio -->
