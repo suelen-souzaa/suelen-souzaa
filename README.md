@@ -7,11 +7,11 @@
 <!-- Presentation -->
 <p>
   Eu sou a Suélen, mas pode me chamar de Sue!</p> 
-  <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para a área da tecnologia.
+  <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para esta área.
 
   - 🌱 Atualmente, estudo de forma autodidata HTML, CSS, JavaScript, SQL e Gen IA.
 
-  - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas.
+  - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas (ADS).
 
 Meu foco é integrar minhas experiências prévias com minhas novas habilidades para oferecer soluções inovadoras no campo digital.
 <p>Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
