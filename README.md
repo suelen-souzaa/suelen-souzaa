@@ -23,8 +23,11 @@ Meu foco é integrar minhas experiências prévias com minhas novas habilidades 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelensouzaguiar/)
 
-<!-- GithubEstatísticas -->
-![Sue GitHub Estatística](https://github-readme-stats.vercel.app/api?username=suelen-souzaa&show_icons=true&theme=slateorange&include_all_commits=true&locale=pt-br)
+
+<!-- GithubEstatísticas 
+![Sue GitHub Estatística](https://github-readme-stats.vercel.app/api?username=suelen-souzaa&show_icons=true&theme=slateorangen&iclude_all_commits=true&locale=pt-br) -->
+
+
 
 ## Linguagens & Tecnologias que estou aprendendo:
 <!-- Skills: Programming Languages -->
