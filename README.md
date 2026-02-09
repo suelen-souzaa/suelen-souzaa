@@ -35,16 +35,19 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e D
   <div style="flex-basis: 48%;">
   
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/f96eb48f-bb5f-4e0c-93df-0a7f9f505098" height="40" alt="sql logo />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="40" alt="cloud logo />
+  <img width="12" />
+
 </div>
 
 <!-- Portfólio -->
