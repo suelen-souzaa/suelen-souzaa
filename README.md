@@ -6,14 +6,15 @@
 
 <!-- Presentation -->
 <p>
-  Eu sou a Suélen, mas pode me chamar de Sue!</p> 
-  <p>Sempre tive uma conexão natural com a tecnologia, o que me levou a decidir migrar meus estudos para esta área.
+Olá, eu sou a Suélen (pode me chamar de Sue)! 👋
 
-  - 🌱 Atualmente, estudo de forma autodidata HTML, CSS, JavaScript, SQL e Gen IA.
+Tenho uma conexão natural com tecnologia e estou em transição de carreira para a área de desenvolvimento e DevOps.
 
-  - 👨‍💻 Também iniciei minha segunda graduação, agora em Análise e Desenvolvimento de Sistemas (ADS).
+- 🌱 Atualmente estudando autodidata JavaScript, SQL, fundamentos de automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
+- 🔧 Desenvolvendo pequenos projetos e scripts práticos para consolidar aprendizado e aplicar conceitos de programação, automação e infraestrutura.  
 
-Meu foco é integrar minhas experiências prévias com minhas novas habilidades para oferecer soluções inovadoras no campo digital.
+Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e DevOps, e contribuir com soluções inovadoras em ambientes digitais.
 <p>Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
 
 </p>
