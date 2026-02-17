@@ -14,7 +14,7 @@ Tenho uma conexão natural com tecnologia e estou em transição de carreira par
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
 - 🔧 Desenvolvendo pequenos projetos e scripts práticos para consolidar aprendizado e aplicar conceitos de programação, automação e infraestrutura.  
 
-Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e DevOps, e contribuir com soluções inovadoras em ambientes digitais.
+Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e contribuir com soluções inovadoras em ambientes digitais.
 <p>Em breve, estarei atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
 
 </p>
