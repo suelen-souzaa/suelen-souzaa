@@ -10,7 +10,7 @@ Olá, eu sou a Suélen (pode me chamar de Sue)! 👋
 
 Tenho uma conexão natural com tecnologia e estou em transição de carreira para a área de desenvolvimento e DevOps.
 
-- 🌱 Atualmente estudando autodidata JavaScript, SQL, fundamentos de automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
+- 🌱 Atualmente estudando autodidata Python, SQL, fundamentos de automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
 - 🔧 Desenvolvendo pequenos projetos e scripts práticos para consolidar aprendizado e aplicar conceitos de programação, automação e infraestrutura.  
 
@@ -35,18 +35,14 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
   <div style="flex-basis: 48%;">
   
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f96eb48f-bb5f-4e0c-93df-0a7f9f505098" height="40" alt="sql logo />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/44669620-5510-4341-bfd4-15366b4c3aac" height="40" alt="pyhon logo"/>
+  <img width="12"/>
+  <img src="https://github.com/user-attachments/assets/2ca51c5f-0769-423e-a8c0-257651527ad3" height="40" alt="sql logo />
+  <img width="12"/>
   <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="40" alt="cloud logo />
-  <img width="12" />
+  <img width="12"/>
+  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="43" alt="cloud logo />
+  <img width="12"/>
 
 </div>
 
